@@ -1,0 +1,11 @@
+=====notes======
+
+keyword:
+import 
+def
+print
+
+symbol:
+%
++ - * /
+
